@@ -1,0 +1,10 @@
+
+
+The report explains the reason for the observed results using at least one appropriate justification from the video lessons or from outside resources (e.g., Norvig and Russell’s textbook).
+
+Per project's requirement: The report explains the reason for the observed results using at least one appropriate justification from the video lessons or from outside resources, please explain observed results. For example, why does DFS do no consistently achieve optimality of the solution? Try to come up with a few why questions about observed results and answer them; don't forget to cite your sources :)
+Research Review
+
+The report includes a summary of at least three key developments in the field of AI planning and search.
+
+I see that you have listed 3 key developments. Nicely done! However, it'd need a summary of what they are. For example, you have mentioned Hierarchical Path-Finding A*algorithm. What is it? How does it work? How does it help pathfinding on grid maps?
