@@ -1,0 +1,34 @@
+GetNewFactIntent a fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me something
+GetNewFactIntent a history fact
+GetNewFactIntent tell me a history fact
+GetNewFactIntent give me a history fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a history trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a history trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some history information
+GetNewFactIntent tell me something
+GetNewFactIntent tell me something about history
+GetNewFactIntent tell me something about a fact
+
+GetNewYearFactIntent a fact {FACT_YEAR}
+GetNewYearFactIntent a fact {FACT_YEAR}
+GetNewYearFactIntent tell me a fact {FACT_YEAR}
+GetNewYearFactIntent give me a fact {FACT_YEAR}
+GetNewYearFactIntent give me something {FACT_YEAR}
+GetNewYearFactIntent a history fact {FACT_YEAR}
+GetNewYearFactIntent tell me a history fact {FACT_YEAR}
+GetNewYearFactIntent give me a history fact {FACT_YEAR}
+GetNewYearFactIntent tell me trivia {FACT_YEAR}
+GetNewYearFactIntent tell me a history trivia {FACT_YEAR}
+GetNewYearFactIntent give me trivia {FACT_YEAR}
+GetNewYearFactIntent give me a history trivia {FACT_YEAR}
+GetNewYearFactIntent give me some information {FACT_YEAR}
+GetNewYearFactIntent give me some history information {FACT_YEAR}
+GetNewYearFactIntent tell me something {FACT_YEAR}
+GetNewYearFactIntent tell me something about history {FACT_YEAR}
+GetNewYearFactIntent tell me something about a fact {FACT_YEAR}
