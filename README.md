@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-Artificial-Intelligence-Repo
+Artificial Intelligence Projects
