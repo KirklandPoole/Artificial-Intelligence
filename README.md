@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-Artificial-Intelligence-Repor
+Artificial-Intelligence-Repo
